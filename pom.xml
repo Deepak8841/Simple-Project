@@ -82,6 +82,11 @@
     <artifactId>maven-resources-plugin</artifactId>
     <version>2.7</version>
 </dependency>
+  <dependency>
+    <groupId>org.apache.maven.plugins</groupId>
+    <artifactId>maven-clean-plugin</artifactId>
+    <version>2.5</version>
+</dependency>
     <dependency>
       <groupId>org.ow2.util</groupId>
       <artifactId>util-i18n</artifactId>
