@@ -15,12 +15,12 @@
   <distributionManagement>
     <repository>
       <id>nexus</id>
-      <name>Nexus Releases</name>
+      <name>SAMPLE-REL</name>
       <url>http://localhost:8081/repository/SAMPLE-REL/</url>
     </repository>
     <snapshotRepository>
       <id>nexus</id>
-      <name>Nexus Snapshot</name>
+      <name>SAMPLE-SNAP</name>
       <url>http://localhost:8081/repository/SAMPLE-SNAP/</url>
     </snapshotRepository>
     <site>
